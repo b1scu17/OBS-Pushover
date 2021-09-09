@@ -26,7 +26,12 @@ Examples setup:
 
 
 ## Notes
-- The name of one of the sounds needs to be supported by the device clients.
+- The name of one of the sounds needs to be supported by the device clients. Sound names can be found here - https://pushover.net/api#sounds
+
+Using the sound name on the left without spaces and in lowercase.
+
+![pushover_sound](https://user-images.githubusercontent.com/29752700/132641581-e2184b5c-e3f0-4cd7-bf18-67365da2f4d6.png)
+
 - Priority: Send as -2 to generate no notification/alert, -1 to always send as a quiet notification, 1 to display as high-priority and bypass the user's quiet hours, or 2 to also require confirmation from the user.
 - The Retry parameter specifies how often (in seconds) the Pushover servers will send the same notification to the user. This parameter must have a value of at least 30 seconds between retries.
 - The Expire parameter specifies how many seconds your notification will continue to be retried for (every retry seconds). This parameter must have a maximum value of at most 10800 seconds (3 hours).
