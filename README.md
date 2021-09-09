@@ -16,18 +16,21 @@ https://pushover.net/
 5. Select the script under 'Loaded scripts'
 6. From your Pushover account, copy "Your User Key" into the "User Key" field
 
-![pushover_userKey](https://user-images.githubusercontent.com/29752700/132640343-102e1092-da74-4c4f-8c6d-de567b11a860.png)
+![pushover_userKey](https://user-images.githubusercontent.com/29752700/132647922-ac812fb4-351d-4541-a617-a83aa74873e2.png)
+
 
 7. From your Pushover account, create an "Application/API Token" and copy the app's "API Token/Key" into the "App API Token" field
 
-![pushover_appToken](https://user-images.githubusercontent.com/29752700/132640368-000daa0d-7830-42d6-8585-cb4d3465576b.png)
+![pushover_appToken](https://user-images.githubusercontent.com/29752700/132647937-de2c493d-00ee-4814-bf16-feb54e148e0a.png)
+
 
 8. Enable the check boxes for the events you want to receive notifications for
 9. Optionally fill in the priority, sound and device field for notification customization
 
 Examples setup:
 
-![pushover_setup](https://user-images.githubusercontent.com/29752700/132640734-11fb0d64-5248-46bd-8b72-b5f948d82f59.png)
+![pushover_setup](https://user-images.githubusercontent.com/29752700/132647952-73792c66-af0d-44b4-a573-768a681c9458.png)
+
 
 
 ## Notes
