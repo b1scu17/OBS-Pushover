@@ -14,9 +14,13 @@ https://pushover.net/
 4. Click the "+" icon and select the "obs_pushover.lua" file
 5. Select the script under 'Loaded scripts'
 6. From your Pushover account, copy "Your User Key" into the "User Key" field
+
 ![pushover_userKey](https://user-images.githubusercontent.com/29752700/132640343-102e1092-da74-4c4f-8c6d-de567b11a860.png)
+
 7. From your Pushover account, create an "Application/API Token" and copy the app's "API Token/Key" into the "App API Token" field
+
 ![pushover_appToken](https://user-images.githubusercontent.com/29752700/132640368-000daa0d-7830-42d6-8585-cb4d3465576b.png)
+
 8. Enable the check boxes for the events you want to receive notifications for
 9. Optionally fill in the priority, sound and device field for nofitication customization
 
