@@ -5,6 +5,7 @@ This is very useful for anyone like me that runs OBS Studio on a headless machin
 
 # Requirements
 You need to have a Pushover account
+
 https://pushover.net/
 
 ## Installation
