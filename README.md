@@ -23,7 +23,7 @@ https://pushover.net/
 ![pushover_appToken](https://user-images.githubusercontent.com/29752700/132640368-000daa0d-7830-42d6-8585-cb4d3465576b.png)
 
 8. Enable the check boxes for the events you want to receive notifications for
-9. Optionally fill in the priority, sound and device field for nofitication customization
+9. Optionally fill in the priority, sound and device field for notification customization
 
 Examples setup:
 
