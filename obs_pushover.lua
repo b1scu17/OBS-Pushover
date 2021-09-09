@@ -44,8 +44,8 @@ end
 function script_properties()
     local props = obs.obs_properties_create()
 
-    obs.obs_properties_add_text(props, "app_token", "App API Token", obs.OBS_TEXT_PASSWORD)
     obs.obs_properties_add_text(props, "user_key", "User Key", obs.OBS_TEXT_PASSWORD)
+    obs.obs_properties_add_text(props, "app_token", "App API Token", obs.OBS_TEXT_PASSWORD)
     obs.obs_properties_add_int_slider(props, "priority", "Pushover Priority", -2, 2, 1)
     obs.obs_properties_add_text(props, "sound", "Pushover Sound", obs.OBS_TEXT_DEFAULT)
     obs.obs_properties_add_text(props, "device", "Pushover Device", obs.OBS_TEXT_DEFAULT)
