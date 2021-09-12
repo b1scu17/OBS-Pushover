@@ -20,7 +20,6 @@
 -- OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 -- SOFTWARE.
 --
--- Inspired by script developed by Mark Lagendijk
 -- Released on GitHub by Ruvann Beukes
 
 obs = obslua
