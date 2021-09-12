@@ -20,8 +20,8 @@
 -- OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 -- SOFTWARE.
 --
--- Original script by Mark Lagendijk
--- Repurposed and released on GitHub (with permission of Mark) by Ruvann Beukes
+-- Inspired by script developed by Mark Lagendijk
+-- Released on GitHub by Ruvann Beukes
 
 obs = obslua
 settings = {}
